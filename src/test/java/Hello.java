@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("work 3");
         System.out.println("work 4");
         System.out.println("work 5");
+        System.out.println("work 6");
     }
 }
