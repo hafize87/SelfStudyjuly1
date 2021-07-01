@@ -3,5 +3,6 @@ public class Hello {
 
         System.out.println("work 1");
         System.out.println("work 2");
+        System.out.println("work 3");
     }
 }
